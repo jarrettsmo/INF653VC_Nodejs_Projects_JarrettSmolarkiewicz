@@ -1,3 +1,6 @@
+// https://github.com/gitdagray/nodejs_web_server
+// https://www.youtube.com/watch?v=y18ubz7gOsQ&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw&index=7 
+
 const express = require('express');
 const app = express();
 const path = require('path');
