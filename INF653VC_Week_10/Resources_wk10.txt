@@ -1,0 +1,8 @@
+RESOURCES FOR INF 653 PROJECTS
+
+Dave Gray YouTube Playlist for Vanilla JavaScript
+https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT 
+
+Dave Gray YouTube Playlist for Node.js
+https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw 
+
