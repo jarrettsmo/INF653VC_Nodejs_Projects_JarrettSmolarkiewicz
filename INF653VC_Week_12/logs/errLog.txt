@@ -1,1 +1,6 @@
 20230403	02:19:52	fc299bd1-83f8-40fa-b7ee-94e00b807b94	TypeError: fsPromises.readFil is not a function
+20230410	22:31:24	9663bf68-611e-495d-85fd-4d5f48c6c219	Error: Not allowed by CORS
+20230410	22:34:37	8ec4c033-8442-4990-b567-27719076b02e	Error: Not allowed by CORS
+20230415	23:43:23	ad3ecdc6-de16-4bb5-bb79-a3bef3a81b20	TypeError: req.json is not a function
+20230415	23:44:07	9419a06b-93ae-438d-8995-85324242a5ec	TypeError: req.json is not a function
+20230415	23:50:10	752dfe01-8f06-4f96-a4e0-20b857dd25ed	TypeError: req.json is not a function
