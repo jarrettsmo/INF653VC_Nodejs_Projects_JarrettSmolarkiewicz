@@ -1,3 +1,4 @@
 node_modules
 ~/.nvm
 .DS_Store
+.env
