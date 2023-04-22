@@ -170,3 +170,6 @@
 20230416	01:20:33	84e6e651-cc65-48b6-aecf-eb2ab30df19d	DELETE	undefined	/employees
 20230416	01:20:47	5991dbef-738a-40d9-ab33-eab2f832aa90	GET	undefined	/employees/1
 20230421	19:19:16	f14e472c-c891-4cae-88bb-c939f59d47c3	GET	undefined	/register
+20230421	19:23:12	224d9e17-5e8a-42e9-beeb-79f169940fa1	GET	undefined	/register
+20230421	19:42:44	e2f08023-7cbe-41e0-a120-1bb4ec7bf604	GET	undefined	/register
+20230421	20:08:55	fddc9f2b-6a39-46d0-9ca8-1a8eccfbe325	POST	undefined	/register
