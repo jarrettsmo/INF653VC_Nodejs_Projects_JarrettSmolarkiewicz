@@ -173,3 +173,5 @@
 20230421	19:23:12	224d9e17-5e8a-42e9-beeb-79f169940fa1	GET	undefined	/register
 20230421	19:42:44	e2f08023-7cbe-41e0-a120-1bb4ec7bf604	GET	undefined	/register
 20230421	20:08:55	fddc9f2b-6a39-46d0-9ca8-1a8eccfbe325	POST	undefined	/register
+20230421	20:32:04	d1afe283-fe95-452c-b71c-a05a5f7d0f8b	POST	undefined	/register
+20230421	21:17:41	4b55a7de-a9e9-4287-a69f-6d6b00dd7565	POST	undefined	/register
